@@ -395,6 +395,7 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [awesome-dash](https://github.com/Acrotrend/awesome-dash)
 * [diagrams](https://github.com/mingrammer/diagrams) - Diagram as Code.
 * [Matplotlib](http://matplotlib.org/) - A Python 2D plotting library.
+* [Plotly](https://plotly.com/) - The front end for ML and data science models.
 * [plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python based on ggplot2.
 * [Pygal](http://www.pygal.org/en/latest/) - A Python SVG Charts Creator.
 * [PyGraphviz](https://pypi.org/project/pygraphviz/) - Python interface to [Graphviz](http://www.graphviz.org/).
