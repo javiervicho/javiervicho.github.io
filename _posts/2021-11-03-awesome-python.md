@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Awesome python"
-categories: [ Jekyll, tutorial ]
+categories: [ developers, python ]
 image: assets/images/1.jpg
 ---
 T# Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
