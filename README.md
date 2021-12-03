@@ -1,5 +1,3 @@
-# Affiliates - Free Jekyll Theme
+# Javier Vicho Soto
 
-[Live Demo](https://wowthemesnet.github.io/affiliates-jekyll-theme/) | [Docs & Download](https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/) |  [Buy me a coffee](https://www.wowthemes.net/donate/)
-
-![jekyll-affiliates-theme](https://bootstrapstarter.com/assets/img/themes/affiliates-jekyll.jpg)
+I'm a data scientist @ Ricardo Energy & Environment. I am trying to collaborate on building a better world using data.
